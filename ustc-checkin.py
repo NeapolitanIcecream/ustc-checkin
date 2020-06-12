@@ -54,8 +54,7 @@ r = s.post(REPORT_URL, data={
     "last_cross_hubei_detail": "",
     "return_dest": "1",
     "return_dest_detail": "",
-    "other_detail": "\uFFFD",
-    # https://twitter.com/tenderlove/status/722565868719177729
+    "other_detail": "",
 })
 
 # Fail if not 200
